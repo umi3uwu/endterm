@@ -15,7 +15,7 @@ public class Main {
             System.out.println("5. Exit");
 
             int choice = scanner.nextInt();
-            scanner.nextLine(); // Consume newline character
+            scanner.nextLine();
 
             switch (choice) {
                 case 1:
